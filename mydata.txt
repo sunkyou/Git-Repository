@@ -1,3 +1,5 @@
 Name: Sun Kyou Kim
+Affiliation: Political Science and Asian Institute
 Program: MA in Political Science
-Research Area: Southeast Asia
+Research Area: Comparative Politics, Southeast Asia
+Programming Languages: R, Python, Git
